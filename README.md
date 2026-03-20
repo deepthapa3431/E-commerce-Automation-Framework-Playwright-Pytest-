@@ -160,6 +160,19 @@ This project uses **GitHub Actions** to:
 
 ---
 
+## 🔌 API Testing
+
+- Implemented API testing using `requests` library
+- Created reusable API client for GET and POST operations
+- Validated response status codes and data
+- Demonstrates hybrid testing (API + UI)
+
+Example APIs tested:
+- GET /posts
+- POST /posts
+
+---
+
 ## 🔥 Tech Stack
 
 * Python
