@@ -9,3 +9,6 @@ class APIClient:
 
     def post(self, endpoint, data):
         return requests.post(f"{self.base_url}{endpoint}", json=data)
+    
+    def create_user(self, data):
+        return requests.post(f"{self.base_url}/users", json=data)

@@ -173,6 +173,15 @@ Example APIs tested:
 
 ---
 
+## 🔄 API + UI Integration
+
+- Created hybrid test scenarios combining API and UI
+- Used API calls to generate test data dynamically
+- Reduced dependency on UI setup flows
+- Demonstrates real-world automation strategy
+
+---
+
 ## 🔥 Tech Stack
 
 * Python
